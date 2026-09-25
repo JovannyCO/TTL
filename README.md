@@ -143,3 +143,5 @@ Esto no es asesoría legal: ante una duda sobre tu plan, la referencia son sus t
 ---
 
 Autor: Jovanny Medina Cifuentes — Analista y Desarrollador de Software.
+
+Licencia [CC BY 4.0](LICENSE): puedes compartir y adaptar este contenido, incluso con fines comerciales, dando crédito al autor.
