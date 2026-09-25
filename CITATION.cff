@@ -1,0 +1,44 @@
+# Datos para citar esta guía: GitHub los muestra en «Cite this repository» (APA y BibTeX).
+cff-version: 1.2.0
+message: "Si usas o adaptas esta guía, dale crédito al autor con estos datos (licencia CC BY 4.0)."
+title: "Compartir datos del celular con el computador en Colombia: por qué el operador lo nota y cómo ajustar el TTL"
+abstract: >-
+  Guía en lenguaje claro sobre el TTL (IPv4) y el Hop Limit (IPv6) de un
+  computador que navega con los datos del celular por zona Wi-Fi, punto de
+  acceso, hotspot o tethering en Colombia: por qué el operador distingue ese
+  uso, qué valor usar, cómo ajustarlo en Windows 10 y 11, Linux y WSL2, cómo
+  comprobarlo, qué no hace y qué dice la ley.
+authors:
+  - given-names: Jovanny
+    family-names: Medina Cifuentes
+    city: Cali
+    country: CO
+    website: "https://www.jovanny.co"
+repository-code: "https://github.com/JovannyCO/TTL"
+url: "https://github.com/JovannyCO/TTL"
+license: CC-BY-4.0
+date-released: 2026-09-24
+keywords:
+  - compartir datos del celular
+  - zona Wi-Fi
+  - punto de acceso
+  - hotspot
+  - tethering
+  - TTL
+  - Hop Limit
+  - Windows
+  - Linux
+  - WSL2
+  - neutralidad en Internet
+  - Colombia
+preferred-citation:
+  type: generic
+  title: "Compartir datos del celular con el computador en Colombia: por qué el operador lo nota y cómo ajustar el TTL"
+  authors:
+    - given-names: Jovanny
+      family-names: Medina Cifuentes
+      website: "https://www.jovanny.co"
+  year: 2026
+  url: "https://github.com/JovannyCO/TTL"
+  languages:
+    - es
